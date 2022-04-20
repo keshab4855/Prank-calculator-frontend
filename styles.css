@@ -143,8 +143,9 @@ li {
 
   border-radius: 100%;
   position: absolute;
-  /* left: 380px; */
+
   left: calc(50% - 300px);
-  top: 540px;
+  bottom: calc(50% - 300px);
+
   z-index: -1000;
 }
